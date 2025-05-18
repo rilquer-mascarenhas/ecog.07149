@@ -10,4 +10,4 @@ Description:
 - `data/rf_data.rds` - input matrix for Random Forest models. Each row represents a pair of localities and their associated information, i.e., mid-point coordinates; geographic, genetic and environmental distances; OTU and their ecological traits; locus.
 - `data/spp_trait_data.csv` - original trait information utilized for each OTU. 
 
-Code for this manuscript can be found [here]([https://rmascarenhas.org/resources](https://github.com/rilquer-mascarenhas/ecog.07149_code).
+Code for this manuscript can be found [here](https://github.com/rilquer-mascarenhas/ecog.07149_code).
